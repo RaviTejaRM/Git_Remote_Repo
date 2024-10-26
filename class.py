@@ -7,4 +7,4 @@ def calling(name):
     
     return a
 
-calling("ravi")
+calling("java")
